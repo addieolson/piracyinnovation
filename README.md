@@ -1,3 +1,3 @@
-## Piracy/Innovation Project
+# Piracy/Innovation Project
 Addie Olson
-# Data Collection
+## Data Collection
